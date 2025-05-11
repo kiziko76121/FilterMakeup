@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+# Virtual Makeup App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+一個使用 React 和 face-api.js 開發的虛擬口紅試妝應用。可以上傳照片並嘗試不同的口紅顏色效果。
 
-## Available Scripts
+## 功能特點
+
+- 人臉檢測和特徵點識別
+- 精確的嘴唇區域檢測
+- 自然的口紅顏色混合效果
+- 智能光澤和高光效果
+- 支持自定義顏色選擇
+
+## 技術棧
+
+- React
+- face-api.js
+- HTML5 Canvas
+- CSS3
+
+## 安裝和運行
+
 
 In the project directory, you can run:
 
